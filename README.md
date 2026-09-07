@@ -44,7 +44,7 @@
 * C++ 标准：C++20
 * 编译器：MSVC
 * LLVM Assertions：关闭
-* LLVM RTTI：关闭
+* LLVM RTTI：启用
 * LLVM 库链接模式：Static
 
 ### 支持的代码生成目标
